@@ -1,8 +1,4 @@
-Project: CloudScale - Team 4
-Team members: 	Sweekrut Suhas Joshi
-				Suhaskrishna Gopalkrishna
-				Bharath Banglaore Veeranna
-
+Team members: 	Sweekrut Suhas Joshi, Suhaskrishna Gopalkrishna, Bharath Banglaore Veeranna
 
 General dependencies required:
 	g++, python, numpy, matplotlib, fastdtw, python-pearson package
